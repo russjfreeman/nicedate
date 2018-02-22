@@ -1,4 +1,6 @@
-# nicedate
+# supernicedate
+
+const nicedate = require("supernicedate")
 
 Couldn't be simpler really :-)
 
