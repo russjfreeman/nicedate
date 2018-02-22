@@ -1,0 +1,25 @@
+{
+  "name": "nidedate",
+  "version": "0.0.1",
+  "description": "A simple utility to make a nice date e.g. Sunday February 2nd 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russjfreeman/nicedate.git"
+  },
+  "keywords": [
+    "date",
+    "date",
+    "formatting",
+    "node"
+  ],
+  "author": "Russ J Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russjfreeman/nicedate/issues"
+  },
+  "homepage": "https://github.com/russjfreeman/nicedate#readme"
+}
