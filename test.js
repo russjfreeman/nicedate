@@ -1,5 +1,6 @@
 const nicedate = require( "./");
 
+console.log(nicedate.out(Date()) );
 
 console.log(nicedate.out("2018-02-22") );
 
