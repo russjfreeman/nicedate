@@ -1,5 +1,5 @@
 {
-  "name": "nidedate",
+  "name": "supernicedate",
   "version": "0.0.1",
   "description": "A simple utility to make a nice date e.g. Sunday February 2nd 2018",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/russjfreeman/nicedate.git"
+    "url": "git+https://github.com/russjfreeman/supernicedate.git"
   },
   "keywords": [
     "date",
@@ -19,7 +19,7 @@
   "author": "Russ J Freeman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/russjfreeman/nicedate/issues"
+    "url": "https://github.com/russjfreeman/supernicedate/issues"
   },
-  "homepage": "https://github.com/russjfreeman/nicedate#readme"
+  "homepage": "https://github.com/russjfreeman/supernicedate#readme"
 }
