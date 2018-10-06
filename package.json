@@ -1,10 +1,10 @@
 {
   "name": "supernicedate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple utility to make a nice date e.g. Sunday February 2nd 2018",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,8 @@
   },
   "keywords": [
     "date",
-    "date",
     "formatting",
+    "pretty date",
     "node"
   ],
   "author": "Russ J Freeman",

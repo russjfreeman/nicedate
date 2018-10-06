@@ -14,4 +14,9 @@ console.log(nicedate.out("2018-02-22") );
 
 console.log(nicedate.out("2018-01-01") );
     //  Monday January 1st 2018
+
+console.log(nicedate.out("2018-01-03 23:21"), true );
+    //  Wednesday January 3rd 2018 @ 23:21
+
+
 ```
